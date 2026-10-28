@@ -9,7 +9,9 @@ Made by a team of four in 3 days.
 
 ## Play
 
-Windows build: coming soon.
+Download the Windows build from [Releases](https://github.com/DaniilBaranov-UNVS/wings-of-freedom/releases/latest): unzip it and run `Wings of Freedom.exe`.
+
+Requirements: Windows 10/11 64-bit. A DirectX 12 GPU is recommended (ray tracing and DLSS need it).
 
 ## About
 
@@ -35,7 +37,7 @@ has to be defeated in a boss fight. Then you cross the water by boat to the moun
 - **Legends**: an in-game encyclopedia about wayang characters, the puppeteer (*dalang*) and gamelan.
 - **Side quests**: *Surakarta* (traditional Indonesian checkers) against a bot, wooden puzzles, and a 2D shadow play mini-game.
 - **Procedural nature**: tropical trees with vines and roots, grass that bends under the player, wind.
-- **Russian and Indonesian** localization.
+- **English, Russian and Indonesian** localization.
 
 ## Screenshots
 
