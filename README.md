@@ -9,7 +9,7 @@ Made by a team of four in 3 days.
 
 ## Play
 
-Download the Windows build from [Releases](https://github.com/DaniilBaranov-UNVS/wings-of-freedom/releases/latest): unzip it and run `Wings of Freedom.exe`.
+Download the Windows build on [itch.io](https://avoska-games.itch.io/wings-of-freedom) or from [Releases](https://github.com/DaniilBaranov-UNVS/wings-of-freedom/releases/latest): unzip it and run `Wings of Freedom.exe`.
 
 Requirements: Windows 10/11 64-bit. A DirectX 12 GPU is recommended (ray tracing and DLSS need it).
 
